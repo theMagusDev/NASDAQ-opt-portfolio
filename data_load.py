@@ -11,7 +11,7 @@ all_tickers_candidates = []
 all_tickers = [
     'AAPL', 'ADBE', 'ADI', 'ADP', 'ADSK', 'AMD', 'AMGN', 'AMZN', 'ASML', 'AVGO',
     'BIDU', 'BKNG', 'BKR', 'CDNS', 'CHTR', 'CMCSA', 'COST', 'CSCO', 'CSX', 'CTSH',
-    'DLTR', 'DXCM', 'EA', 'EBAY', 'EXC', 'GILD', 'GOOG', 'GOOGL', 'IDXX', 'ILMN',
+    'DLTR', 'DXCM', 'EA', 'EBAY', 'EXC', 'GILD', 'TMUS', 'GOOGL', 'IDXX', 'ILMN',
     'INTC', 'ISRG', 'KDP', 'KLAC', 'LRCX', 'MAR', 'MDLZ', 'META', 'MNST', 'MU',
     'NFLX', 'NVDA', 'NXPI', 'ORLY', 'PAYX', 'PEP', 'PYPL', 'QCOM', 'REGN', 'TSLA',
 ]
